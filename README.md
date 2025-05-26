@@ -24,18 +24,21 @@ In a rapidly evolving financial services landscape, understanding user behavior 
 
 ---
 ### 🔹 Orders by Cohort
-<img src="assets/orders_cohort.png" width="600"/>
+![image](https://github.com/user-attachments/assets/05afd876-a83b-46f0-a3e0-6e4cc0805d2b)
+
 
 ### 🔹 Purchases by Cohort
-<img src="assets/purchases_cohort.png" width="600"/>
+![image](https://github.com/user-attachments/assets/4ec2dfb8-44bc-49fb-bb9a-ef2ad5f263ff)
+
 
 ### 🔹 Revenue by Month & Cohort
-<img src="assets/revenue_cohort.png" width="800"/>
+![image](https://github.com/user-attachments/assets/24c55ac2-151f-4444-af09-e6a0cb711590)
+
 
 ### 🔸 Orders by Profession
-<img src="assets/orders_by_profession.png" width="800"/>
+![image](https://github.com/user-attachments/assets/cce79ff3-ed68-4261-91d9-5423fbb69f5a)
 
 ### 🔸 Conversion Rate by Profession
-<img src="assets/conversion_by_profession.png" width="800"/>
+![image](https://github.com/user-attachments/assets/bc0bd7aa-a81e-4639-ad9c-f8e0a9eac9a2)
 
 
