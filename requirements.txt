@@ -1,0 +1,45 @@
+
+📘 Gromo Data Analysis - Colab Execution Guide
+
+Follow these steps to run the notebook in Google Colab:
+
+------------------------------------------------------------
+🔹 STEP 1: Open the Colab Notebook
+------------------------------------------------------------
+1. Go to https://colab.research.google.com
+2. Upload the notebook file: Gromo_Data_Analysis_Notebook.ipynb
+   (Click File > Upload Notebook > Select the file)
+
+------------------------------------------------------------
+🔹 STEP 2: Upload the Required Datasets
+------------------------------------------------------------
+1. In Colab, click on the file icon (📁) on the left sidebar
+2. Click the "Upload" icon and upload the following files:
+   - Case_Study_Customer_Data.csv
+   - Case_Study_Orders_Data.csv
+
+------------------------------------------------------------
+🔹 STEP 3: Load the Datasets in Code
+------------------------------------------------------------
+Use the following code to load datasets inside a code cell:
+
+```python
+import pandas as pd
+
+# Load Customer Data
+customer_df = pd.read_csv("Case_Study_Customer_Data.csv")
+
+# Load Orders Data
+orders_df = pd.read_csv("Case_Study_Orders_Data.csv")
+```
+
+------------------------------------------------------------
+🔹 STEP 4: Run All Cells
+------------------------------------------------------------
+Click Runtime > Run all (or use Ctrl+F9) to execute all cells step by step.
+
+Make sure to inspect the outputs and charts at each step.
+
+------------------------------------------------------------
+✅ That's it! You can now explore trends, analyze conversions,
+and run cohort analysis interactively.
